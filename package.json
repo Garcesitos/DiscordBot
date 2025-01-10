@@ -1,0 +1,21 @@
+{
+  "name": "garridos",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sapphire/framework": "^4.8.2",
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.2.6",
+    "pretty-ms": "^8.0.0"
+  },
+  "description": ""
+}
